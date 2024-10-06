@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "SP Medifort Hospital",
+    "patientCount": 125,
+    "hospiceLocation": "Eanchakkal, Thiruvananthapuram, Kerala - 695024"
+  },
+  {
+    "id": 2,
+    "name": "KIMSHEALTH Hospital",
+    "patientCount": 212,
+    "hospiceLocation": "1, Vinod Nagar Rd, Anayara, Thiruvananthapuram, Kerala - 695029"
+  },
+  {
+    "id": 3,
+    "name": "Ananthapuri Hospitals and Research Institute (AHRI)",
+    "patientCount": 89,
+    "hospiceLocation": "NH bypass 66, Airport Rd, near Courtyard Garden, Chackai, Thiruvananthapuram, Kerala - 695024"
+  }
+]
